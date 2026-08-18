@@ -20,7 +20,9 @@ It was a messy data: <br>
 •	With the discounts, I compared different category & their products. Aim was to understand which categories or products are sold over discounts and especially at what level of discount. <br>
 •	With the Order status, I compared different category & their products. Aim was to see overall ratio of cancelled and returned products or product category. I filtered Shipping & Pending as they are under process because their status will change to Delivered, Returned or Cancelled. <br>
 •	With Ratings, I compared different categories and products. Aim was to look the effect of product rating on orders. Outcome was highly rated products were ordered more. <br>
+# Preview
+<img width="1401" height="786" alt="Image" src="https://github.com/user-attachments/assets/d6ffd968-62f6-48a6-abf9-1b1f6e498469" /> <br>
 
-## Outcome (according to the data set): <br>
+## Outcome: (according to the data set) <br>
 •	Sales are dropped because of massive drop in orders. <br>
 
